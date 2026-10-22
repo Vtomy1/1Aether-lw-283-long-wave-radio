@@ -1,0 +1,8 @@
+{
+  "name": "Aether LW-283 Long Wave Radio",
+  "description": "Tactile longwave and VLF radio receiver simulation with real-time audio synthesis, interactive flywheel tuning, spectrum waterfall display, and authentic maritime and time-signal stations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
